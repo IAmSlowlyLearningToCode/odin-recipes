@@ -11,4 +11,7 @@
 - Get used to tracking project in repository
 
 ## What I learned:
-- Will find out after I finish the project
+- Projects are much harder in practice! While the steps themselves were relatively simple, I still felt the difference between the idea of something and actually doing it.
+- Commits are hard! This was the hardest part of the project for me. I still don't feel sure what to put into a single commit, or what level of detail is necessary to describe it. 
+- Other than figuring out what to commit, the git workflow was nice. It was rewarding to build up progress and then send it to my repository. 
+- It wasn't pretty, but I was surprised how much I could build with basic html elements.
