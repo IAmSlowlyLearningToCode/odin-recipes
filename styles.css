@@ -34,3 +34,7 @@ ul.link-list li::marker {
     font-size: 20px;
     color: rgb(99, 50, 50);
 }
+
+ul.ingredient-list {
+    list-style: square;
+}
