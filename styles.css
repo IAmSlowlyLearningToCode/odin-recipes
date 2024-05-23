@@ -21,3 +21,11 @@ a:hover {
     color: rgb(240, 97, 15);
     text-decoration: underline;
 }
+
+ul.link-list li {
+    padding-bottom: 5px;
+}
+
+ul.link-list li::marker {
+    color: rgb(99, 50, 50);
+}
