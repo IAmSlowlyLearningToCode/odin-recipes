@@ -38,3 +38,7 @@ ul.link-list li::marker {
 ul.ingredient-list {
     list-style: square;
 }
+
+ol.directions-list li {
+    margin-bottom: 10px;
+}
