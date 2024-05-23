@@ -29,3 +29,8 @@ ul.link-list li {
 ul.link-list li::marker {
     color: rgb(99, 50, 50);
 }
+
+.section-title {
+    font-size: 20px;
+    color: rgb(99, 50, 50);
+}
