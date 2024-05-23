@@ -11,3 +11,13 @@ body {
 hr {
     border-top: 3px solid rgb(99, 50, 50);
 }
+
+a {
+    color: rgb(247, 152, 11);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(240, 97, 15);
+    text-decoration: underline;
+}
