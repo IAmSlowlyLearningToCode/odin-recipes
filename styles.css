@@ -9,8 +9,9 @@ body {
 
 .title {
     color: rgb(99, 50, 50);
-    text-align: center;
-    margin: 20px auto 10px auto;
+    font-size: 42px;
+    margin: 0 auto;
+    margin-top: 16px;
 }
 
 hr {
