@@ -3,8 +3,8 @@ body {
 }
 
 .content {
-    margin: 16px auto;
-    width: 90%;
+    padding: 24px;
+    margin: 0 auto;
 }
 
 .title {
