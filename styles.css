@@ -8,14 +8,14 @@ body {
 }
 
 .title {
-    color: rgb(99, 50, 50);
+    color: rgb(0, 0, 0);
     font-size: 42px;
     margin: 0 auto;
     margin-top: 16px;
 }
 
 hr {
-    border: 1px solid rgb(99, 50, 50);
+    border: 1px solid rgb(0, 0, 0);
 }
 
 a {
