@@ -59,3 +59,8 @@ ol.directions-list li {
     padding: 16px;
     outline: 1px solid rgb(0, 0, 0);
 }
+
+.inline-card {
+    display: inline-block;
+    vertical-align: top;
+}
